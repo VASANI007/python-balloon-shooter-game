@@ -52,7 +52,7 @@ The game demonstrates basic concepts of:
 ```
 python-balloon-shooter-game
 │
-├── main.py
+├── Balloon Shooter Game.py
 │
 └── README.md
 ```
@@ -92,7 +92,7 @@ pip install pygame
 ### 4 Run the game
 
 ```bash
-python main.py
+python Balloon Shooter Game.py
 ```
 
 ---
@@ -120,7 +120,7 @@ pip3 install pygame
 ### 4 Run the game
 
 ```bash
-python3 main.py
+python3 Balloon Shooter Game.py
 ```
 
 ---
